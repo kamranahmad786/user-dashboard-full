@@ -6,7 +6,7 @@ It allows users to browse, search, sort, and view detailed information in a clea
 ---
 
 ## 🔗 Live Demo
-👉 https://your-vercel-link.vercel.app
+👉 https://user-dashboard-full.vercel.app/
 
 ---
 
