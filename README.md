@@ -30,6 +30,3 @@ It allows users to browse, search, sort, and view detailed information in a clea
 - **API:** JSONPlaceholder
 - **Build Tool:** Vite
 
----
-
-## 📁 Project Structure
