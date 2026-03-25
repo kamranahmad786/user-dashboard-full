@@ -1,0 +1,48 @@
+# Node modules
+node_modules/
+
+# Production build
+dist/
+build/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# IDE files
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Cache
+.cache/
+.temp/
+
+# Vite specific
+.vite/
+
+# Coverage reports
+coverage/
+
+
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+.vercel
+.env*.local
